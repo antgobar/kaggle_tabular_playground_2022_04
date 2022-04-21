@@ -14,5 +14,5 @@ Kaggle competition - tabular playground series April '22
 * Clone repository
 * Run ```poetry install``` to create environment and install dependencies
 * Use ```poetry add <library>``` to install other useful libraries e.g. keras or pytorch
-* Run jupyter ```poetry run jupyter notebook```, may require appending ```--no-browser```
-* Open a browser on ```localhost:8888```
+* Run jupyter ```poetry run jupyter notebook```
+* Open a browser on ```localhost:8888```. If the browser can't find the page you may need to re-run the poetry command with the flag ```--no-browser```
