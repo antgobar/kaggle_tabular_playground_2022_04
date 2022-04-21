@@ -6,7 +6,7 @@ Kaggle competition - tabular playground series April '22
 
 * [Competition docs](https://www.kaggle.com/competitions/tabular-playground-series-apr-2022/overview)
 
-* [Data files](https://www.kaggle.com/competitions/tabular-playground-series-apr-2022/data)
+* [Data files](https://www.kaggle.com/competitions/tabular-playground-series-apr-2022/data) (files too large for github)
 
 
 ### Setup instructions
